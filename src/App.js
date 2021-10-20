@@ -2,9 +2,9 @@ import React, { useRef, useState } from 'react';
 import './App.css';
 import { useCollectionData } from 'react-firebase-hooks/firestore';
 import { useAuthState } from 'react-firebase-hooks/auth';
-import firebase from 'firebase/app';
-
 import configData from './firebase-config.json';
+
+import firebase from 'firebase/app';
 
 import 'firebase/firestore';
 import 'firebase/auth';

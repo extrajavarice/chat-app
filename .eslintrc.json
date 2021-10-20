@@ -24,7 +24,6 @@
         "import/extensions": "off",
         "import/no-unresolved": "off",
         "react/destructuring-assignment": ["off", "always"],
-
-          "no-console": "off"
+        "no-console": "off"
     }
 }
